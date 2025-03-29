@@ -14,10 +14,10 @@ This project conducts a detailed analysis of the energy performance of domestic 
 - Visualization: Implementation of various visual analytics in Power BI to represent the data effectively, providing clear insights into energy performance trends and distributions.
 
 ### 📊 Dashboard  🔗 [Click to view the live Dashboard](https://app.powerbi.com/groups/me/reports/7b509298-b919-4c8f-967a-6e6a94924a6f/b7452d1717d034339607?experience=power-bi)
-![image alt](https://github.com/Peheni01/Greater-Manchester-Domestic-Energy-Performance-Analyzer/blob/3db829f5763373805893acc838d4934954704820/i.%20Dashboard.png)
-![image alt](https://github.com/Peheni01/Greater-Manchester-Domestic-Energy-Performance-Analyzer/blob/3db829f5763373805893acc838d4934954704820/ii.%20Dashboard.png)
-![image alt](https://github.com/Peheni01/Greater-Manchester-Domestic-Energy-Performance-Analyzer/blob/3db829f5763373805893acc838d4934954704820/iii.%20Dashboard.png)
-![image alt](https://github.com/Peheni01/Greater-Manchester-Domestic-Energy-Performance-Analyzer/blob/3db829f5763373805893acc838d4934954704820/iv.%20Dashboard.png)
+![image alt](https://github.com/Peheni01/Greater-Manchester-Domestic-Energy-Performance-Analyzer/blob/eaee381a2b51d4389208c4270dd987e461bb6c3e/i.%20Dashboard.png)
+![image alt](https://github.com/Peheni01/Greater-Manchester-Domestic-Energy-Performance-Analyzer/blob/eaee381a2b51d4389208c4270dd987e461bb6c3e/ii.%20Dashboard.png)
+![image alt](https://github.com/Peheni01/Greater-Manchester-Domestic-Energy-Performance-Analyzer/blob/eaee381a2b51d4389208c4270dd987e461bb6c3e/iii.%20Dashboard.png)
+![image alt](https://github.com/Peheni01/Greater-Manchester-Domestic-Energy-Performance-Analyzer/blob/eaee381a2b51d4389208c4270dd987e461bb6c3e/iv.%20Dashboard.png)
 
 ### Results Analysis and Discussion
 The analysis highlights several key findings:
